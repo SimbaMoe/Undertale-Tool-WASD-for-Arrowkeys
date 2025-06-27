@@ -1,2 +1,6 @@
 # Undertale-Tool-WASD-for-Arrowkeys
-I dont recommend you use this, because im not a professional coder myself. I made this because my right arrow key was missing, and badly wanted to play Undertale fan games. If you are having this same issue, this may work for you.
+Currently Version 1.0.0
+
+This is a tool I made for Undertale, it maps WASD to arrow keys so you too can enjoy Undertale fan games and, the game in general if you do not have working arrow keys.
+
+Let it be known, i'm not like a professional programmer or anything. So, I recommend not using this tool, because it may not function as intended. (I didnt have any problems personally)
