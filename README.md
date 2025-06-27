@@ -11,3 +11,9 @@ Requirements:
   - Requirements for JNativeHook: (https://github.com/kwhat/jnativehook)
   - Any operating system, preferably MacOS, Linux, or Windows.
   - Installed Java 1.8 -- Java 17
+
+How to run this?:
+  - if you have installed java already.
+  - Go to the folder that contains the .jar file.
+  - and run it like you would any other jar file.
+  - java -jar *.jar
