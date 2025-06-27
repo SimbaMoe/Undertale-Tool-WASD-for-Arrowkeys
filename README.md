@@ -8,6 +8,6 @@ Let it be known, i'm not like a professional programmer or anything. So, I recom
 
 
 Requirements:
-  - JNativeHook: Key Listener. Look at the github for more info (https://github.com/kwhat/jnativehook)
+  - Requirements for JNativeHook: (https://github.com/kwhat/jnativehook)
   - Any operating system, preferably MacOS, Linux, or Windows.
   - Installed Java 1.8 -- Java 17
